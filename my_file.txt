@@ -1,0 +1,4 @@
+Hello, I am a new Python programmer
+I am very new
+My favorite food is python-files
+ New text.
